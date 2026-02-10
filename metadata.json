@@ -1,0 +1,7 @@
+{
+  "name": "Fresh Drop Juices",
+  "description": "A vibrant and modern landing page for a fresh juice and smoothie brand, featuring interactive animations, a full menu, and order integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
